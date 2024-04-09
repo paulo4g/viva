@@ -1,0 +1,46 @@
+.about {
+    background-color: #51D687;
+    border-radius: 0 0 3rem;
+    max-width: 1200px;
+    padding: 40px 20px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap:100px;
+  }
+
+  
+  .about .subtitulo {
+    color: #2CAF61;
+    font-size: 4rem;
+  }
+  
+  .about-text {
+    font-size: 1.5rem;
+    line-height: 1.33;
+    max-width: 40ch;
+    margin-bottom: 60px;
+    color: #525252;
+  }
+  
+  .about-text strong {
+    font-weight: bold;
+    color: #141414;
+  }
+  
+  
+  @media (max-width:800px) {
+    .about {
+      grid-template-columns: 1fr;
+      gap: 40px;
+    }
+    .about .subtitulo {
+      color: #141414;
+    }
+    .about-text {
+      font-size: 1.125rem;
+    }
+    
+  } 
+  
+  
