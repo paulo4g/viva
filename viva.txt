@@ -1,0 +1,85 @@
+nome da empresa: Viva
+
+descrição: "Na Viva, acreditamos na beleza que vem da natureza. Nossos produtos são cuidadosamente formulados com ingredientes naturais e orgânicos, proporcionando uma experiência de beleza autêntica e consciente. Da pele radiante ao cabelo luxuoso, nossa linha de cosméticos naturais oferece uma abordagem holística para cuidar de si mesma, sem comprometer o planeta ou os animais. Descubra uma vida de beleza vibrante com Viva."
+
+missão: Na Viva, nossa missão é promover a beleza natural e sustentável, oferecendo produtos de alta qualidade formulados com ingredientes naturais e orgânicos. Buscamos proporcionar uma experiência de beleza consciente, inspirando nossos clientes a cuidar de si mesmos, enquanto cuidam do planeta.
+
+valores: 
+Sustentabilidade: Comprometemo-nos a proteger o meio ambiente, utilizando práticas sustentáveis em todas as etapas do nosso processo de produção.
+Ética: Valorizamos a transparência, a integridade e o respeito em todas as nossas relações comerciais, desde os fornecedores até os clientes.
+Qualidade: Buscamos a excelência em todos os aspectos do nosso trabalho, garantindo que cada produto Viva seja eficaz, seguro e luxuoso.
+Inovação: Estamos constantemente explorando novas formas de melhorar nossos produtos e processos, mantendo-nos na vanguarda da indústria de cosméticos naturais.
+Empoderamento: Acreditamos no poder da autoexpressão e na importância de cuidar do bem-estar pessoal. Nossos produtos são projetados para capacitar os indivíduos a se sentirem confiantes e bonitos em sua própria pele.
+
+História:
+A Viva foi fundada com uma visão clara: proporcionar uma alternativa sustentável e ética na indústria de cosméticos. Inspirados pela beleza da natureza e motivados pela necessidade de preservar nosso planeta, começamos nossa jornada em [ano de fundação], com a missão de criar produtos que não apenas realcem a beleza, mas também promovam o bem-estar pessoal e global.
+
+Desde então, temos trabalhado incansavelmente para formular produtos excepcionais, livres de ingredientes prejudiciais e testes em animais. Ao longo dos anos, expandimos nossa linha para incluir uma variedade de produtos para cuidados com a pele, cabelo e maquiagem, mantendo sempre nosso compromisso com a qualidade, sustentabilidade e ética.
+
+Hoje, a Viva é reconhecida como uma líder na indústria de cosméticos naturais, amada por clientes em todo o mundo que compartilham nossa paixão pela beleza consciente. Estamos comprometidos em continuar nossa missão, inspirando a vida com beleza natural, responsável e vibrante.
+
+Política de Privacidade e Termos de Uso:
+
+Política de Privacidade
+
+A Política de Privacidade da Viva Cosméticos Naturais descreve como coletamos, usamos e protegemos as informações pessoais dos nossos clientes. Ao utilizar os nossos serviços, você concorda com a coleta e uso de informações de acordo com esta política.
+
+Informações Coletadas e Utilização:
+
+Coletamos informações pessoais fornecidas voluntariamente por você ao fazer uma compra, se inscrever em nossa newsletter, participar de promoções ou entrar em contato conosco.
+As informações coletadas podem incluir seu nome, endereço de e-mail, endereço de entrega, informações de pagamento e preferências de produtos.
+Utilizamos essas informações para processar pedidos, fornecer suporte ao cliente, enviar comunicações de marketing (se consentido) e melhorar nossos produtos e serviços.
+Proteção de Informações:
+
+Implementamos medidas de segurança para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição.
+Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para fornecer serviços solicitados por você.
+Cookies:
+
+Utilizamos cookies e tecnologias similares para melhorar a experiência do usuário, personalizar conteúdos e anúncios, fornecer recursos de mídia social e analisar o tráfego do site.
+Você pode configurar seu navegador para recusar todos os cookies ou para indicar quando um cookie está sendo enviado. No entanto, isso pode afetar a funcionalidade do site.
+Links Externos:
+
+Nosso site pode conter links para outros sites que não são operados por nós. Não temos controle sobre o conteúdo ou as práticas de privacidade desses sites e não nos responsabilizamos por eles.
+Alterações na Política de Privacidade:
+
+Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página regularmente para estar ciente de quaisquer alterações.
+Termos de Uso
+
+Ao acessar e utilizar o site da Viva Cosméticos Naturais, você concorda com os seguintes termos e condições:
+
+Uso do Site:
+
+Você concorda em utilizar o site apenas para fins legítimos e de acordo com estes Termos de Uso, bem como com todas as leis e regulamentos aplicáveis.
+Você concorda em não utilizar o site de qualquer forma que possa danificar, desativar, sobrecarregar ou prejudicar o site ou interferir no uso e aproveitamento de outras partes.
+Propriedade Intelectual:
+
+Todo o conteúdo do site, incluindo textos, gráficos, logotipos, imagens, vídeos, layout e software, é de propriedade da Viva Cosméticos Naturais ou de seus licenciadores e está protegido por leis de direitos autorais e outras leis de propriedade intelectual.
+Limitação de Responsabilidade:
+
+A Viva Cosméticos Naturais não se responsabiliza por danos diretos, indiretos, consequenciais ou incidentais decorrentes do uso ou incapacidade de usar o site ou do conteúdo disponível nele.
+Alterações nos Termos de Uso:
+
+Reservamos o direito de modificar estes Termos de Uso a qualquer momento, e tais alterações entrarão em vigor imediatamente após serem publicadas no site.
+Ao usar nosso site, você concorda com nossas Políticas de Privacidade e Termos de Uso. Se tiver alguma dúvida, entre em contato conosco.
+
+
+cores: 
+
+Verde: Representa natureza, frescor e crescimento. É uma escolha óbvia para produtos naturais e eco-friendly.
+
+Azul: Evoca calma, confiança e serenidade. Pode transmitir uma sensação de confiança na qualidade dos produtos.
+
+Tons de terra (marrom, bege, terracota): Associados à terra e à natureza, essas cores transmitem uma sensação de autenticidade e naturalidade.
+
+Branco: Simboliza pureza, limpeza e simplicidade. Pode ser usado como cor de fundo para destacar outros elementos.
+
+Amarelo: Representa energia, alegria e otimismo. Pode adicionar um toque de vitalidade ao seu site.
+
+Rosa pálido ou coral: Essas cores suaves podem transmitir uma sensação de delicadeza e feminilidade, se esse for o público-alvo da sua empresa.
+
+Cinza claro: Pode ser usado para equilibrar outras cores vibrantes e criar uma aparência moderna e sofisticada.
+
+Fonte título: Poppins
+fonte subtítulo: Ubuntu Mono
+cores da logo: verde escuro// #2CAF61
+	       verde claro // #51D687
