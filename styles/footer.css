@@ -1,16 +1,16 @@
 .footer {
-    background: #76EBA5;
-  }
+}
 
-  .footer p {
-    font-size: 1.5rem;
-    line-height: 1.33;
-    color: #2CAF61;
-  }
-  
-  .footer-container {
+.footer p {
+  font-size: 1.5rem;
+  line-height: 1.33;
+  color: #2CAF61;
+}
+
+.footer-container {
     max-width: 1200px;
-    padding: 120px 20px 60px 20px;
+    background: #76EBA5;
+    padding: 40px 20px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
