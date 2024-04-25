@@ -1,7 +1,10 @@
 :root {
   --primary-color: #2CAF61;
   --secondary-color: #51D687;
+  --background-color: #76EBA5;
+  --background-gray: #f5f5f5;
+  --text-color: #8f8f8f;
   --primary-font: 'Poppins';
-  --secondary-font: 'Nunito Sans'
+  --secondary-font: 'Nunito Sans';
 
 }

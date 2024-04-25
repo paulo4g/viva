@@ -14,6 +14,7 @@
   }
   
   .introducao h1 {
+    font-family: var(--primary-font);
     font-size: 6rem;
     line-height: 1.125;
     margin-bottom: 30px;
@@ -32,6 +33,7 @@
   }
   
   .introducao p {
+    font-family: var(--secondary-font);
     font-size: 1.5rem;
     color: #525252;
   } 

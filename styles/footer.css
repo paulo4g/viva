@@ -1,12 +1,12 @@
 .footer p {
   font-size: 1.5rem;
   line-height: 1.33;
-  color: #2CAF61;
+  color: var(--primary-color);
 }
 
 .footer-container {
     max-width: 1200px;
-    background: #76EBA5;
+    background: var(--background-color);
     padding: 40px 20px;
     margin: 0 auto;
     display: grid;
@@ -18,25 +18,25 @@
   .footer-text {
     font-size: 1.5rem;
     line-height: 1.33;
-    color: #2CAF61;
+    color: var(--primary-color);
   }
   
   .footer-text li {
     font-weight: bold;
     font-size: 2.25rem;
     line-height:1.1;
-    color: #2CAF61;
+    color: var(--primary-color);
     margin-bottom: 30px;
   }
   
   .footer-text li a {
-    color: #2CAF61;  
+    color: var(--primary-color);  
   }
   
   .footer-copy {
     grid-column: 1 / -1;
     font-size: 1.125rem;
-    color: #8f8f8f;
+    color: var(--text-color);
   }
   
   @media (max-width: 800px) {

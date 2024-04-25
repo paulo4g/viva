@@ -11,17 +11,19 @@
 
   
   .about .subtitulo {
-    color: #2CAF61;
+    font-family: var(--primary-font);
+    color: var(--primary-color);
     font-size: 4rem;
   }
   
   .about-text {
+    font-family: var(--secondary-font);
     left: 40px;
     font-size: 1.5rem;
     line-height: 1.33;
     max-width: 40ch;
     margin-bottom: 60px;
-    color: #525252;
+    color: var(--text-color);
   }
   
   .about-text strong {
