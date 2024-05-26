@@ -60,7 +60,9 @@
   border-radius: 8px;
   max-height: 256px;
   margin-left: 32px;
+  position: relative;
 }
+
 
 .produtos .produto:first-child {
   margin-left: 0;
@@ -69,6 +71,74 @@
 .icone {
   width: 200px;
   height: 200px;
+}
+
+.icone#shampoo::before {
+  content: 'Shampoo Blonde Savior';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  opacity: 0;
+  transition: .5s ease;
+  text-align: center;
+  white-space: nowrap; /* Evita quebra de linha */
+  pointer-events: none;
+}
+.icone#shampoo:hover::before {
+  opacity: 1;
+}
+.icone#condicionador::before {
+  content: 'Condicionador Care Color Brillianz';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  opacity: 0;
+  transition: .5s ease;
+  text-align: center;
+  white-space: nowrap; /* Evita quebra de linha */
+  pointer-events: none;
+}
+.icone#condicionador:hover::before {
+  opacity: 1;
+}
+
+.icone#mascara::before {
+  content: 'Máscara Care Blonde Savior';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  opacity: 0;
+  transition: .5s ease;
+  text-align: center;
+  white-space: nowrap; /* Evita quebra de linha */
+  pointer-events: none;
+}
+.icone#mascara:hover::before {
+  opacity: 1;
+}
+
+
+
+
+
+
+.icone#shampoo:hover::before{
+  opacity: 1;
 }
 
 .produtos .produto img {
