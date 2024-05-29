@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Viva - Cosméticos Naturais</title>
     <link rel="stylesheet" href="/styles/style.css" />
-    <script src="/scripts/app.js" refer></script>
+    <script src="/scripts/app.js" defer></script>
   </head>
   <body>
     <header class="header">
@@ -58,36 +58,63 @@
           <img src="/assets/img/products/shampoo.jpg"
           alt="Shampoo Blonde Savior" class="shampoo">
         </div>
-        <h3>Care Blonde Savior Shampoo 300ml.</h3>
-        <span>R$ 299</span>
+        <div class="produtoTeste">
+          <h4 class="produtoNome">Care Blonde Savior Shampoo 300ml.</h4>
+          <span class="produtoPreco">R$ 299</span>
+        </div>
       </div>
       <div class="produto">
         <div class="icone" id="condicionador">
           <img src="/assets/img/products/condicionador.jpg" 
           alt="Condicionador Care Color Brillianz" class="image">
         </div>
-        <h3>Care Color Brillianz Conditioner 250ml.</h3>
-        <span>R$ 199</span>
+        <h4 class="produtoNome">Care Color Brillianz Conditioner 250ml.</h4>
+        <span class="produtoPreco">R$ 199</span>
       </div>
       <div class="produto">
         <div class="icone" id="mascara">
           <img src="/assets/img/products/mascara.jpg" 
           alt="Máscara Care Blonde Savior" class="image">
         </div>
-        <h3>Care Blonde Savior Mask 200ml</h3>
-        <span>R$ 99</span>
+        <h4 class="produtoNome">Care Blonde Savior Mask 200ml</h4>
+        <span class="produtoPreco">R$ 99</span>
         </div>
       </div>
     </div>
   </div>
 
     <footer class="footer-container" id="contact">
-        <p>Entre em contato para maiores informações.</p>
-        <ul class="footer-text">
+        <h2 class="footer">Entre em contato <br>
+          para maiores informações.</h2>
+
+        <form  id="form" action="">
+          <div class="input">
+            <input type="text" name="nome" id="nome" required>
+            <label for="nome">Nome</label>
+            <span class="error"></span>
+          </div>  
+          
+          <div class="input">
+            <input type="email" name="email" id="email" required>
+            <label for="email">E-mail</label>
+            <span class="error"></span>
+          </div>
+
+          <div class="input">
+            <textarea required class="mensagem" id="mensagem"></textarea>
+            <label for="mensagem">Digite sua mensagem</label>
+            <span class="error"></span>
+          </div>
+
+          <button type="submit">Enviar</button>
+
+
+        </form>  
+        <!-- <ul class="footer-text">
           <li>contato@viva.com.br</li>
           <li>+55 34 99999-0000</li>
           <li><a href="#">@vivacosmetics</a></li>
-        </ul>
+        </ul> -->
     </footer>
   </body>
 </html>
